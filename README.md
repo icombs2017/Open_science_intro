@@ -14,3 +14,5 @@ This is a jumping off point for those interested in using these reasources for g
 Use this as an introduction and basic starting point to get familiar with these techniques. Both *Rmarkdown* and *GitHub* are very powerful and you will learn new and interesting ways to incorporate them into your everyday workflow (I hope!).
 
 **Good luck, have fun**
+
+**POP POP!**
