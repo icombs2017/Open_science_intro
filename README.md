@@ -13,4 +13,4 @@ I also touch on using *Zenodo* to archive repositories and create a Digital Obje
 This is a jumping off point for those interested in using these reasources for good data practices for open science. This is by **no means** exhaustive.
 Use this as an introduction and basic starting point to get familiar with these techniques. Both *Rmarkdown* and *GitHub* are very powerful and you will learn new and interesting ways to incorporate them into your everyday workflow (I hope!).
 
-**Good luck, have fun, love you!**
+**Good luck, have fun**
